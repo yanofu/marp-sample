@@ -1,6 +1,5 @@
 # marp-sample
 
-
 | file              |     |
 | ----------------- | --- |
 | sample.md         |     |

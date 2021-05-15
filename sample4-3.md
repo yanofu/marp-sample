@@ -13,7 +13,7 @@ size: 4:3
 ## 会社
 ## 氏名
 ## TEL:
-## Email: @kyotorobotics.co.jp
+## Email:
 
 ---
 <!--_class: normal-->
