@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./themes/custom.css"
+    ],
+    "markdown.marp.enableHtml": true
+}

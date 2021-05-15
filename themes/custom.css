@@ -1,0 +1,77 @@
+/* @theme custom */
+
+@import "gaia";
+
+section::after,
+footer {
+  color: white;
+  background-color: #44aada;
+  height: 45px;
+  margin-bottom: 0px;
+  font-size: 60%;
+  padding: 0px 20px 0px 20px;
+}
+
+section {
+  background-color: white;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", Meiryo, sans-serif;
+}
+
+section.top {
+  background-image: url(./img/logo.svg);
+  background-repeat: no-repeat;
+  background-size: 600px;
+  background-position-x: center;
+  background-position-y: 180px;
+}
+
+section.top h1 {
+  color: slategray;
+  font-size: 2rem;
+  margin-top: 280px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+section.top h2 {
+  color: rgb(68, 67, 67);
+  font-size: 0.65rem;
+  margin-top: 0px;
+  text-align: right;
+}
+
+section.normal {
+  padding: 50px 50px 50px 50px;
+  background-image: url(./img/logo.svg);
+  background-repeat: no-repeat;
+  background-size: 250px;
+  background-position: right 50px top 50px;
+}
+
+section.normal h1 {
+  color: rgb(68, 67, 67);
+  font-size: 1.6rem;
+  border-bottom: 2px solid #44aada;
+  margin-bottom: -15px;
+}
+
+section.normal h2 {
+  font-size: 1.3rem;
+}
+
+section.normal h3 {
+  font-size: 1.1rem;
+}
+
+section.normal h4 {
+  font-size: 1.0rem;
+}
+
+section.final {
+  background-image: url(./img/logo.svg);
+  background-repeat: no-repeat;
+  background-size: 800px;
+  background-position-x: center;
+  background-position-y: center;
+}
